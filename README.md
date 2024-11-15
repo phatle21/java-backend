@@ -1,8 +1,6 @@
-Overview Dự Án: Task Management System
-Tên dự án:
-Task Management System
+Dự Án: Task Management System
 
-Mô tả ngắn gọn:
+Mô tả:
 Task Management System là một ứng dụng web đơn giản được thiết kế để quản lý các nhiệm vụ (tasks) hàng ngày.
 Người dùng có thể đăng ký tài khoản, đăng nhập, và quản lý danh sách công việc cá nhân. 
 Hệ thống cung cấp các tính năng cơ bản như tạo, đọc, cập nhật và xóa nhiệm vụ (CRUD), đồng thời tích hợp các chức năng bảo mật như xác thực và phân quyền dựa trên Spring Security.
